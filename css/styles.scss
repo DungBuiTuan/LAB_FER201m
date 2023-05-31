@@ -1,0 +1,15 @@
+$color_1: floralwhite;
+$color_2: #0f0f0f;
+$background-color_1: #d1c4e9;
+$background-color_2: #512da8;
+
+.navbar-dark {
+	background-color: $background-color_2;
+}
+.card-body {
+	background-color: $background-color_1;
+}
+.modal-body {
+	background-color: $background-color_1;
+}
+
